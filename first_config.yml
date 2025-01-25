@@ -9,3 +9,7 @@ eureka:
 spring:
   application:
     name: first_config_server
+
+test:
+  int: 20
+  value: "abc"
