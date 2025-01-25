@@ -11,5 +11,4 @@ spring:
     name: first_config_server
 
 test:
-  int: 20
-  value: "abc"
+  number: 20
